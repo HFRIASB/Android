@@ -1,0 +1,44 @@
+com/example/navigationactivityrvproducto/Producto.java
+ com.example.navigationactivityrvproducto.Producto
+com/example/navigationactivityrvproducto/ui/home/HomeFragment.java
+ com.example.navigationactivityrvproducto.ui.home.HomeFragment
+ com.example.navigationactivityrvproducto.ui.home.HomeFragment$1
+com/example/navigationactivityrvproducto/databinding/AppBarMainBinding.java
+ com.example.navigationactivityrvproducto.databinding.AppBarMainBinding
+com/example/navigationactivityrvproducto/ui/slideshow/SlideshowFragment.java
+ com.example.navigationactivityrvproducto.ui.slideshow.SlideshowFragment
+ com.example.navigationactivityrvproducto.ui.slideshow.SlideshowFragment$1
+com/example/navigationactivityrvproducto/databinding/ActivityMainBinding.java
+ com.example.navigationactivityrvproducto.databinding.ActivityMainBinding
+com/example/navigationactivityrvproducto/databinding/FragmentProductosBinding.java
+ com.example.navigationactivityrvproducto.databinding.FragmentProductosBinding
+com/example/navigationactivityrvproducto/MainActivity.java
+ com.example.navigationactivityrvproducto.MainActivity
+com/example/navigationactivityrvproducto/ui/home/HomeViewModel.java
+ com.example.navigationactivityrvproducto.ui.home.HomeViewModel
+com/example/navigationactivityrvproducto/databinding/ListarBinding.java
+ com.example.navigationactivityrvproducto.databinding.ListarBinding
+com/example/navigationactivityrvproducto/databinding/ContentMainBinding.java
+ com.example.navigationactivityrvproducto.databinding.ContentMainBinding
+com/example/navigationactivityrvproducto/databinding/FragmentGalleryBinding.java
+ com.example.navigationactivityrvproducto.databinding.FragmentGalleryBinding
+com/example/navigationactivityrvproducto/databinding/FragmentSlideshowBinding.java
+ com.example.navigationactivityrvproducto.databinding.FragmentSlideshowBinding
+com/example/navigationactivityrvproducto/ui/slideshow/SlideshowViewModel.java
+ com.example.navigationactivityrvproducto.ui.slideshow.SlideshowViewModel
+com/example/navigationactivityrvproducto/ui/gallery/GalleryFragment.java
+ com.example.navigationactivityrvproducto.ui.gallery.GalleryFragment
+ com.example.navigationactivityrvproducto.ui.gallery.GalleryFragment$1
+com/example/navigationactivityrvproducto/databinding/NavHeaderMainBinding.java
+ com.example.navigationactivityrvproducto.databinding.NavHeaderMainBinding
+com/example/navigationactivityrvproducto/databinding/FragmentHomeBinding.java
+ com.example.navigationactivityrvproducto.databinding.FragmentHomeBinding
+com/example/navigationactivityrvproducto/fragment_productos.java
+ com.example.navigationactivityrvproducto.fragment_productos
+com/example/navigationactivityrvproducto/Adapter.java
+ com.example.navigationactivityrvproducto.Adapter
+ com.example.navigationactivityrvproducto.Adapter$MiViewholder
+com/example/navigationactivityrvproducto/BuildConfig.java
+ com.example.navigationactivityrvproducto.BuildConfig
+com/example/navigationactivityrvproducto/ui/gallery/GalleryViewModel.java
+ com.example.navigationactivityrvproducto.ui.gallery.GalleryViewModel
